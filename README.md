@@ -9,9 +9,8 @@ Este proyecto utiliza **Vite** para el frontend con **React**, y **Express** par
 
 - Frontend: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
 - Backend: [Express](https://expressjs.com/)
-- Lenguaje: JavaScript / TypeScript (según lo uses)
-- Modo desarrollo: Vite con hot reload
-- Modo producción: Express sirviendo `/dist`
+- Lenguaje: JavaScript / TypeScript 
+- Modo producción: Express mostrando `/dist`
 
 ---
 
